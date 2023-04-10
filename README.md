@@ -1,5 +1,7 @@
 # FaasCache
 
+We as a team implemented the greedy dual chaching policy suggested in the paper using cpp objects, creating a simulated object/function/variable of all the factors mentioned in the paper, we did the same thing with Time To live Policy, LRY Policy and we established comparison between all 3 and we inferred that results of our simulation are innine with whatever the authors found.
+
 ## code
 This folder constitutes of the entire simulation code which makes up the frontend the processing of request the deliver of container based on gdsc,ttl,lru policy additionally also includes the code compile all results
 
